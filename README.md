@@ -14,5 +14,9 @@ We will be using github as our repository to save our code
     8)-Select Import into Version Control -> Share Project on GitHub
     9)-The popup dialog will occure contains all your files with check mark, do ok or commit all
     10)-At next time whenever you want to push your project just click on VCS - > Commit Changes -> Commmit and Push.
+  
+  You can follow this link 
+      http://wii.logdown.com/posts/2013/11/15/android-studio-git-tutorial
+      looks old maybe there have been some changes 
 
 
